@@ -115,6 +115,86 @@ function App() {
             </div>
           </div>
         </div>
+
+<div className="flex justify-center w-[80%]  m-auto items-center mt-[20px]">
+  <div  className="text-2xl lg:text-3xl text-center">Learn more about our portfolio</div>
+</div>
+
+
+<div className="p-2 lg:p-4 space-y-5 lg:flex space-x-2">
+
+
+  <div className="bg-[#e9eef1] lg:w-[380px]">
+  
+  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+    </div>
+  <div className="flex flex-col gap-5 p-4">
+    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
+    <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
+      <button>More</button>
+      <div className="w-5">
+        <img  src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1"  alt="" />   </div>
+</div>
+  </div>
+  </div>
+  <div className="bg-[#e9eef1] lg:w-[380px]">
+  
+  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+    </div>
+  <div className="flex flex-col gap-5 p-4">
+    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
+    <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
+      <button>More</button>
+      <div className="w-5">
+        <img  src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1"  alt="" />   </div>
+</div>
+  </div>
+  </div>
+  <div className="bg-[#e9eef1] lg:w-[380px]">
+  
+  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+    </div>
+  <div className="flex flex-col gap-5 p-4">
+    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
+    <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
+      <button>More</button>
+      <div className="w-5">
+        <img  src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1"  alt="" />   </div>
+</div>
+  </div>
+  </div>
+  <div className="bg-[#e9eef1] lg:w-[380px]">
+  
+  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+    </div>
+  <div className="flex flex-col gap-5 p-4">
+    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
+    <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
+      <button>More</button>
+      <div className="w-5">
+        <img  src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1"  alt="" />   </div>
+</div>
+  </div>
+  </div>
+  
+
+
+</div>
+
+
+
+
+
+
+
       </main>
     </>
   );
