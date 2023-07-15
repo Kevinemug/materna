@@ -28,13 +28,55 @@ function App() {
     </header>
 
 
-<main className="bg-hero-pattern  ">
+<main className=" ">
 
-<div className="w-[300px] h-[300px] p-2 lg:relative   bottom-20">
-  <img src="https://www.materna.com/SiteGlobals/Frontend/Images/logo-small.svg?__blob=normal&v=1" alt="" />
+<div className="bg-hero-pattern ">
+  <div className="w-[120px] lg:w-[300px] lg:h-[300px] p-2 lg:p-4 lg:relative   bottom-20">
+    <img src="https://www.materna.com/SiteGlobals/Frontend/Images/logo-small.svg?__blob=normal&v=1" alt="" />
+  </div>
+  
+  <div className="p-2 lg:p-4">
+    <div className="border-[5px] p-2 lg:p-4 text-white lg:w-[35%] lg:py-10 border-main flex flex-col gap-8 ">
+      <div className="text-5xl">WE ARE DIGITIZING YOUR WORLD.</div>
+      <div className="text-2xl text-[#d1dbe0]"> As a key globally active IT service provider, we advise and assist you in all aspects of digitization and provide tailor-made technologies for agile, flexible and secure IT.</div>
+    </div>
+  </div>
+
+
+{/* /* cards */ }
+<div className=" relative top-[20px] space-y-4 text-white">
+
+
+
+<div className="bg-main flex gap-5  p-4">
+<div className="text-2xl">Portifolio</div>
+<div className="w-4">
+  <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
+</div>
+</div>
+<div className="bg-main flex gap-5  p-4">
+<div className="text-2xl">Portifolio</div>
+<div className="w-4">
+  <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
+</div>
+</div>
+<div className="bg-main flex gap-5  p-4">
+<div className="text-2xl">Portifolio</div>
+<div className="w-4">
+  <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
+</div>
 </div>
 
 
+
+
+
+
+
+
+</div>
+
+</div>
 
 </main>
 
