@@ -121,7 +121,7 @@ function App() {
 </div>
 
 
-<div className="p-2 lg:p-4 space-y-5 lg:flex space-x-2">
+<div className="p-2 lg:p-4 space-y-5 lg:flex space-x-4">
 
 
   <div className="bg-[#e9eef1] lg:w-[380px]">
@@ -177,7 +177,7 @@ function App() {
   <div className="flex flex-col gap-5 p-4">
     <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
     <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
-    <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
+    <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center lg:relative ">
       <button>More</button>
       <div className="w-5">
         <img  src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1"  alt="" />   </div>
