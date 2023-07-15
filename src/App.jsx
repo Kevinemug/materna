@@ -44,7 +44,7 @@ function App() {
 
 
 {/* /* cards */ }
-<div className=" relative top-[20px] space-y-4 text-white">
+<div className="p-2  space-y-4 text-white">
 
 
 
@@ -55,13 +55,13 @@ function App() {
 </div>
 </div>
 <div className="bg-main flex gap-5  p-4">
-<div className="text-2xl">Portifolio</div>
+<div className="text-2xl">About Us</div>
 <div className="w-4">
   <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
 </div>
 </div>
 <div className="bg-main flex gap-5  p-4">
-<div className="text-2xl">Portifolio</div>
+<div className="text-2xl">Careers</div>
 <div className="w-4">
   <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
 </div>
