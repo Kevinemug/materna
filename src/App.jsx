@@ -30,7 +30,7 @@ function App() {
 
 <main className=" ">
 
-<div className="bg-hero-pattern bg-no-repeat ">
+<div className="bg-hero-pattern bg-no-repeat  ">
   <div className="w-[120px] lg:w-[300px] lg:h-[300px] p-2 lg:p-4 lg:relative   bottom-20">
     <img src="https://www.materna.com/SiteGlobals/Frontend/Images/logo-small.svg?__blob=normal&v=1" alt="" />
   </div>
@@ -49,7 +49,7 @@ function App() {
     
     
     
-    <div className="lg:w-[200px] lg:border-[5px] h-[225px] border-white">
+    <div className="lg:w-[200px] lg:border-[5px] lg:h-[225px] border-white">
     <div className="hidden  lg:block"><img className="w-[200px] h-[150px]" src="https://www.materna.com/DE/Home/_documents/Bilder/M-Startseite-Quadrat-Portfolio.jpg?__blob=normal&v=1" alt="" /></div>
     <div className="bg-main flex gap-5  p-4">
     <div className="text-2xl">Portifolio</div>
@@ -59,20 +59,20 @@ function App() {
     </div>
     
     </div>
-    <div className="lg:w-[200px] lg:border-[5px] h-[225px] border-white">
-    <div className="hidden  lg:block"><img className="w-[200px] h-[150px]" src="https://www.materna.com/DE/Home/_documents/Bilder/M-Startseite-Quadrat-Portfolio.jpg?__blob=normal&v=1" alt="" /></div>
+    <div className="lg:w-[200px] lg:border-[5px] lg:h-[225px] border-white">
+    <div className="hidden  lg:block"><img className="lg:w-[200px] lg:h-[150px]" src="https://www.materna.com/DE/Home/_documents/Bilder/M-Startseite-Quadrat-Portfolio.jpg?__blob=normal&v=1" alt="" /></div>
     <div className="bg-main flex gap-5  p-4">
-    <div className="text-2xl">Portifolio</div>
+    <div className="text-2xl">About Us</div>
     <div className="w-4 lg:hidden">
     <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
     </div>
     </div>
     
     </div>
-    <div className="lg:w-[200px] lg:border-[5px] h-[225px] border-white">
+    <div className="lg:w-[200px] lg:border-[5px] lg:h-[225px] border-white">
     <div className="hidden  lg:block"><img className="w-[200px] h-[150px]" src="https://www.materna.com/DE/Home/_documents/Bilder/M-Startseite-Quadrat-Portfolio.jpg?__blob=normal&v=1" alt="" /></div>
     <div className="bg-main flex gap-5  p-4">
-    <div className="text-2xl">Portifolio</div>
+    <div className="text-2xl">Careers</div>
     <div className="w-4 lg:hidden">
     <img src="https://www.materna.com/SiteGlobals/Frontend/Images/icons/next-upright.svg?__blob=normal&v=1" alt="" />
     </div>
