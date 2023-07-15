@@ -4,7 +4,7 @@ function App() {
   return (
     
     <>
-    <header className="bg-main w-full text-white md:w-[70%]">
+    <header className="bg-main w-full text-white md:w-[70%] lg:relative top-[80px] left-[350px]">
    <div className="flex space-x-10 py-5 pl-5 md:hidden">
      <div className="flex space-x-2">
       <span className="material-symbols-outlined text-xl">menu</span>
@@ -28,9 +28,9 @@ function App() {
     </header>
 
 
-<main className="bg-hero-pattern">
+<main className="bg-hero-pattern  ">
 
-<div className="w-[100px] h-[100px] p-2">
+<div className="w-[300px] h-[300px] p-2 lg:relative   bottom-20">
   <img src="https://www.materna.com/SiteGlobals/Frontend/Images/logo-small.svg?__blob=normal&v=1" alt="" />
 </div>
 
