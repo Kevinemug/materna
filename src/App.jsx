@@ -141,11 +141,11 @@ function App() {
   </div>
   <div className="bg-[#e9eef1] lg:w-[380px]">
   
-  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
-    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+  <div className="bg-[url('https://www.materna.com/SharedDocs/Bilder/DE/610x343/AS-162962912-Cyber-Security.png?__blob=normal&v=1')] bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Security</div>
     </div>
   <div className="flex flex-col gap-5 p-4">
-    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-[#ce565d] text-2xl">Cyber Security</div>
     <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
     <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
       <button>More</button>
@@ -156,11 +156,11 @@ function App() {
   </div>
   <div className="bg-[#e9eef1] lg:w-[380px]">
   
-  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
-    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+  <div className="bg-[url('https://www.materna.com/SharedDocs/Bilder/DE/610x343/AS-279424236-Home-Portfolio-ESM.png?__blob=normal&v=1')] bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Proces</div>
     </div>
   <div className="flex flex-col gap-5 p-4">
-    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-[#ce565d] text-2xl">Enterprise Service Management</div>
     <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
     <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center">
       <button>More</button>
@@ -171,11 +171,11 @@ function App() {
   </div>
   <div className="bg-[#e9eef1] lg:w-[380px]">
   
-  <div className="bg-img bg-cover bg-center bg-no-repeat h-[300px]">
-    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">Cloud</div>
+  <div className="bg-[url('https://www.materna.com/SharedDocs/Bilder/DE/610x343/AS-404775145-Home-Portfolio-Manufacturing.png?__blob=normal&v=1')] bg-cover bg-center bg-no-repeat h-[300px]">
+    <div className="bg-[#e7e7e7] w-20 py-1  text-center relative top-2 left-2">IoT</div>
     </div>
   <div className="flex flex-col gap-5 p-4">
-    <div className="text-[#ce565d] text-2xl">We accompany your Journey2Cloud</div>
+    <div className="text-[#ce565d] text-2xl">IoT based services</div>
     <div className="text-xl text-[#5c5a5d]">We analyze your application landscapes and transfer them step by step into a sustainable model.</div>
     <div className="flex justify-center gap-4  text-xl text-white py-4 bg-main items-center lg:relative ">
       <button>More</button>
